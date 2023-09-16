@@ -2,11 +2,11 @@
 
 --- 
 
-[Heart Disease Prediction](https://github.com/harshitha-sid/DIC-Predict-Heart-Disease)
+[Heart Disease Prediction (Fall 2022)](https://github.com/harshitha-sid/DIC-Predict-Heart-Disease)
 [<img src="images/dic-heart-disease-thumbnail.png?raw=true"/>](https://github.com/harshitha-sid/DIC-Predict-Heart-Disease)
 
 ---
-[Decentralized Player Auction Platform - Blockchain](https://github.com/harshitha-sid/ipl-auction-app)
+[Decentralized Player Auction Platform - Blockchain (Spring 2023)](https://github.com/harshitha-sid/ipl-auction-app)
 [<img src="images/blockchain-project-thumbnail.png?raw=true"/>](https://github.com/harshitha-sid/ipl-auction-app)
 
 ---
