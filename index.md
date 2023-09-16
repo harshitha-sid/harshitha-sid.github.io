@@ -3,11 +3,11 @@
 --- 
 
 [Heart Disease Prediction](/sample_page)
-<img src="images/dic-heart-disease-thumbnail.png?raw=true"/>
+[<img src="images/dic-heart-disease-thumbnail.png?raw=true"/>](/sample_page)
 
 ---
 [Decentralized Player Auction Platform - Blockchain](/pdf/sample_presentation.pdf)
-<img src="images/blockchain-project-thumbnail.png?raw=true"/>
+[<img src="images/blockchain-project-thumbnail.png?raw=true"/>](/sample_page)
 
 ---
 
